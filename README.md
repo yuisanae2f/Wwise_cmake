@@ -10,3 +10,6 @@
 # It provideth no
 - option of build (Debug/Release thing)
     > Thou shalt change [CMakeLists.txt](./CMakeLists.txt) manually.
+
+- Build for Linux
+    > had no test for Linux (since I have it not)
